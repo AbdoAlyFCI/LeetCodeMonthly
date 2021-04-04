@@ -1,4 +1,4 @@
-# 32. Longest Valid Parentheses
+# 32. Longest Valid Parentheses (Hard)
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
         sList = list(s)
